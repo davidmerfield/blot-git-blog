@@ -1,6 +1,4 @@
-This repository is the source folder for [this blog](http://git.blot.im/) on [Blot](https://blot.im).
-
-Here's how I got it onto GitHub:
+This repository is the source folder for [this blog](http://git.blot.im/) on [Blot](https://blot.im). Here's how I got it onto GitHub:
 
 1. Create new blog on Blot, set up git client and clone to my machine per instructions:
 
