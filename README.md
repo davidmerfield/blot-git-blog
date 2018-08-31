@@ -31,3 +31,5 @@ git remote -v
 ```
 
 5. Now I can ```git push github``` or ```git push origin``` as needed!
+
+6. It might be worth following [these instructions](https://stackoverflow.com/questions/14290113/git-pushing-code-to-two-remotes#answer-14290145) to make ```git push``` push to both remotes.
